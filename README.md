@@ -7,6 +7,7 @@ You want yolo just pull request
 - Make branch with yolo/[github-username] sample : yolo/amirisback
 - Create new pull request from this repo and request review
 - No Need Waiting just merge pull request without review
+- YOLO!
 
 ## YOLO PEOPLE
 - rizkyhhh - Rizky Hilman Faturrahman
